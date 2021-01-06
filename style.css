@@ -1,0 +1,74 @@
+.navbarchange{
+ font-family: cursive;
+
+}
+.brandChange{
+    font-size: 30px;
+}
+.change{
+    color: red;
+}
+
+
+
+.changeLi{
+    font-size: 1.4rem;
+    padding-right: 1.4rem;
+    font-weight: 500;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 100vh;
+}
+
+.headingChange{
+    top: 35%;
+}
+
+.headingChange h1{
+    font-size: 75px;
+    color: rgb(105, 20, 17)
+}
+.headingChange p{
+    font-size: 30px;
+    color: black;
+    margin-bottom: 3rem;
+}
+
+.h1Change{
+    color: white;
+    background-color: rgb(48, 106, 212);
+    border-radius: 10px;
+}
+
+.changeH2{
+    top: 20%;
+}
+
+.changeH2 h1{
+    margin-bottom: 50px;
+}
+
+.changeH3{
+    top: 25%;
+}
+
+.changeH3 h1{
+    font-size: 90px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: linen;    
+}
+
+.changeH3 p{
+    width: 70%;
+    font-size: 20px;
+    color: white;
+    background: mediumorchid;
+    margin-left: 10rem;
+
+}
+
+.edit{
+    margin-top: 33px;
+}
